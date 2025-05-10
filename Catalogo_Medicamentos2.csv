@@ -1,0 +1,533 @@
+INDEX,Descripción del medicamento,Principio activo,Tipo de medicamento (clasificación)
+1,"GLIBENCLAMIDA, 5MG, TABLETA, V.O",Glibenclamida,Antidiabético oral (hipoglucemiante)
+2,"PARACETAMOL (ACETAMINOFÉN), 500MG, TABLETA, V.O.",Paracetamol (Acetaminofén),Analgésico/antipirético
+3,"LEUCOVORINA CÁLCICA (ÁCIDO FOLÍNICO), 15MG, TABLETA, V.O.",Leucovorina cálcica (Ácido folínico),Antídoto/antagonista de metotrexato
+4,"FINASTERIDA, 5 MG, TABLETA, V.O.",Finasterida,Antiandrógeno (tratamiento de próstata)
+5,"HIDRALAZINA CLORHIDRATO 50mg, tableta, V.O.",Hidralazina,Antihipertensivo (vasodilatador)
+6,"TERAZOSINA, 2MG O DOXAZOSINA, 2MG, CÁPSULA O TABLETA, V.O.",Terazosina o Doxazosina,Antihipertensivo (alfa-bloqueante)
+7,"HIDROXICINA, 25MG, CÁPSULA O TABLETA, V.O.",Hidroxicina,Antihistamínico/ansiolítico
+8,"ALFACALCIDOL, 1MCG, CÁPSULA, V.O.",Alfacalcidol,Vitamina D (regulador óseo)
+9,"ESCOPOLAMINA BUTILBROMURO (HIOSCINA), 10MG, TABLETA, V.O.",Escopolamina butilbromuro (Hioscina),Antiespasmódico/anticolinérgico
+10,"DIFENHIDRAMINA, 25MG, CÁPSULA, V.O.",Difenhidramina,Antihistamínico/sedante
+11,"SIMVASTATINA, 10MG, CÁPSULA O TABLETA, V.O.",Simvastatina,Hipolipemiante (estatina)
+12,"FORMOTEROL FUMARATO (EFORMOTEROL), 9-12MCG/INHALACIÓN...",Formoterol,Broncodilatador (agonista ?2)
+13,"ZIDOVUDINA 100mg, cápsula, V.O.",Zidovudina,Antirretroviral (VIH)
+14,"CALCIO CARBONATO, 500 MG-1,000MG DE CALCIO ELEMENTAL...",Calcio carbonato,Suplemento mineral
+15,"PENTOXIFILINA, 400MG, TABLETA DE LIBERACIÓN MODIFICADA...",Pentoxifilina,Hemorreológico (mejora circulación)
+16,"ACETAZOLAMIDA, 250MG, TABLETA, V.O.",Acetazolamida,Diurético/inhibidor de anhidrasa carbónica
+17,"DIGOXINA 0.25mg, tableta, V.O.",Digoxina,Cardiotónico (insuficiencia cardíaca)
+18,"FENITOÍNA SÓDICA 100mg, cápsula o tableta...",Fenitoína,Antiepiléptico
+19,"CLORFENIRAMINA MALEATO, 4MG, TABLETA, V.O.",Clorfeniramina,Antihistamínico
+20,"DIMENHIDRINATO, 50MG, TABLETA, V.O.",Dimenhidrinato,Antiemético/antivertigo
+21,"CIPROFLOXACINA, 500MG, CÁPSULA O TABLETA, V.O.",Ciprofloxacina,Antibiótico (quinolona)
+22,"ISOSORBIDE DINITRATO, 5MG, TABLETA, VÍA SUBLINGUAL",Isosorbide dinitrato,Antianginoso (vasodilatador coronario)
+23,"ERITROMICINA (BASE, ESTEARATO O ETILSUCCIONATO), 500MG...",Eritromicina,Antibiótico (macrólido)
+24,"ISOSORBIDE DINITRATO, 10MG, TABLETA, V.O.",Isosorbide dinitrato,Antianginoso (vasodilatador coronario)
+25,ESTRÓGENOS CONJUGADOS NATURALES DE ORIGEN EQUINO...,Estógenos conjugados equinos,Hormona (terapia de reemplazo)
+26,"FENOBARBITAL 32mg, tableta, V.O.",Fenobarbital,Antiepiléptico/sedante
+27,"FENOBARBITAL 64mg, tableta, V.O.",Fenobarbital,Antiepiléptico/sedante
+28,"METRONIDAZOL, 500MG, TABLETA RANURADA, V.O.",Metronidazol,Antibiótico/antiparasitario
+29,"ÁCIDO FÓLICO, 5MG, TABLETA, V.O.",Ácido fólico,Vitamina (B9)
+30,"NITROFURANTOINA 100MG CÁPSULA O TABLETA, V.O.",Nitrofurantoína,Antibiótico urinario
+31,"AZATIOPRINA, 50MG, TABLETA, V.O.",Azatioprina,Inmunosupresor
+32,"ATENOLOL, 100MG, TABLETA RANURADA, V.O.",Atenolol,Antihipertensivo (beta-bloqueante)
+33,"PIRIDOSTIGMINA BROMURO, 60MG, TABLETA, V.O.",Piridostigmina,Anticolinesterásico (miastenia gravis)
+34,"METILDOPA, 250MG, TABLETA, V.O.",Metildopa,Antihipertensivo (agonista alfa-2)
+35,"MELFALANO 2mg, tableta, V.O.",Melfalán,Quimioterápico (alquilante)
+36,"METOTREXATE, 2.5MG, TABLETA, V.O.",Metotrexato,Antimetabolito (quimioterapia/artritis)
+37,"HIDROXICLOROQUINA SULFATO, 400MG, TABLETA, V.O.",Hidroxicloroquina,Antimalárico/inmunomodulador
+38,"PREDNISONA O PREDNISOLONA, 5MG, TABLETA, V.O.",Prednisona o Prednisolona,Corticosteroide
+39,"TAMOXIFENO CITRATO, 20MG, TABLETA, V.O.",Tamoxifeno,Antineoplásico (antiestrógeno)
+40,"METILFENIDATO, 10MG, TABLETA, V.O.",Metilfenidato,Estimulante del SNC (TDAH)
+41,"CARBAMAZEPINA 200mg, tableta, V.O.",Carbamazepina,Antiepiléptico
+42,"LEVOMEPROMAZINA, 25MG, TABLETA, V.O.",Levomepromazina,Antipsicótico
+43,"TIAMAZOL (METIMAZOL) 5MG, TABLETA, V.O.",Tiamazol (Metimazol),Antitiroideo
+44,HIDROCLOROTIAZIDA 25MG CON TRIAMTERENO 50MG...,Hidroclorotiazida + Triamtereno,Diurético (combinación)
+45,"IMIPRAMINA 10 MG, CÁPSULA O TABLETA, V.O.",Imipramina,Antidepresivo tricíclico
+46,"FLUOXETINA 20mg, cápsula o tableta, V.O.",Fluoxetina,Antidepresivo (ISRS)
+47,"AMITRIPTILINA, 25MG, CÁPSULA O TABLETA, V.O.",Amitriptilina,Antidepresivo tricíclico
+48,"TIAMINA (VITAMINA B1) 100MG, TABLETA, V.O.",Tiamina (Vitamina B1),Vitamina
+49,"PIRIDOXINA (VITAMINA B6), 50MG, TABLETA, V.O.",Piridoxina (Vitamina B6),Vitamina
+50,"ÁCIDO ASCÓRBICO (VITAMINA C), 500MG, TABLETA...",Ácido ascórbico (Vitamina C),Vitamina/antioxidante
+51,"LITIO CARBONATO 300mg, cápsula o tableta, V.O.",Litio,Estabilizador del ánimo (bipolar)
+52,"BIPERIDENO CLORHIDRATO, 2MG, TABLETA, V.O.",Biperideno,Antiparkinsoniano/anticolinérgico
+53,"HIERRO (SAL FERROSA), 50-100MG DE HIERRO ELEMENTAL...",Hierro (sulfato ferroso),Suplemento mineral
+54,"ESPIRONOLACTONA, 25MG, TABLETA, V.O.",Espironolactona,Diurético (ahorrador de potasio)
+55,ANOVULATORIO ORAL (ETINILESTRADIOL + LEVONORGESTREL...),Etinilestradiol + Levonorgestrel...,Anticonceptivo hormonal
+56,"TRAMADOL CLORHIDRATO, 50MG, CÁPSULA, V.O.",Tramadol,Analgésico opioide
+57,"ÁCIDO ACETIL SALICÍLICO, 75-100MG, TABLETA, V.O.",Ácido acetilsalicílico (Aspirina),Antiagregante plaquetario
+58,TRIMETOPRIM 160MG + SULFAMETOXAZOL 800MG...,Trimetoprim + Sulfametoxazol,Antibiótico (cotrimoxazol)
+59,"CICLOSPORINA 25mg, cápsula con microemulsión, V.O.",Ciclosporina,Inmunosupresor
+60,"CICLOSPORINA 100mg, cápsula con microemulsión, V.O.",Ciclosporina,Inmunosupresor
+61,"MERCAPTOPURINA 50MG, TABLETA, V.O.",Mercaptopurina,Antimetabolito (leucemia)
+62,"DIAZEPAM, 5MG, TABLETA, V.O.",Diazepam,Ansiolítico (benzodiazepina)
+63,"MEDROXIPROGESTERONA, 5mg, tableta, V.O.",Medroxiprogesterona,Progestágeno (hormonal)
+64,"MULTIVITAMINAS Y MINERALES, CÁPSULA O TABLETA, V.O.",Multivitamínicos + Minerales,Suplemento
+65,"FUROSEMIDA, 40MG, TABLETA, V.O.",Furosemida,Diurético (de asa)
+66,"AMITRIPTILINA 10mg, cápsula o tableta, V.O.",Amitriptilina,Antidepresivo tricíclico
+67,"PROPRANOLOL CLORHIDRATO, 40MG, TABLETA, V.O.",Propranolol,Antihipertensivo (beta-bloqueante)
+68,"COMPLEJO B, TABLETA, V.O.","Complejo B (B1, B6, B12...)",Vitamina
+69,"WARFARINA SÓDICA 5mg, tableta, V.O.",Warfarina,Anticoagulante
+70,"SULFASALAZINA, 500 MG, TABLETA, V.O.",Sulfasalazina,Antiinflamatorio (enfermedad inflamatoria intestinal)
+71,"OMEPRAZOL, 20mg, CÁPSULA CON MICROESFERAS...",Omeprazol,Inhibidor de bomba de protones (IBP)
+72,ANTIHISTAMÍNICO + DESCONGESTIONANTE (Ej. CLORFENIRAMINA...),Combinación variada (depende del fármaco),Antialérgico/descongestivo
+73,"LORATADINA, 10MG, CÁPSULA O TABLETA, V.O.",Loratadina,Antihistamínico (no sedante)
+74,"AMOXICILINA BASE O TRIHIDRATADA, 500MG...",Amoxicilina,Antibiótico (penicilina)
+75,"CEFALEXINA, 500MG, CÁPSULA O TABLETA, V.O.",Cefalexina,Antibiótico (cefalosporina)
+76,"DICLOXACILINA, 500MG, CÁPSULA, V.O.",Dicloxacilina,Antibiótico (penicilina)
+77,"PRAZOSINA 2mg, tableta ranurada, V.O.",Prazosina,Antihipertensivo (alfa-bloqueante)
+78,LEVODOPA + CARBIDOPA (250MG/25MG)...,Levodopa + Carbidopa,Antiparkinsoniano
+79,"ALOPURINOL 300mg, tableta, V.O.",Alopurinol,Antigotoso (inhibidor de xantina oxidasa)
+80,"MEBENDAZOL 100mg, tableta, V.O.",Mebendazol,Antiparasitario
+81,"DICLOFENACO SÓDICO, 50mg, cápsula o tableta...",Diclofenaco,Antiinflamatorio no esteroideo (AINE)
+82,"CLOMIFENO CITRATO 50mg, tableta, V.O.",Clomifeno,Inductor de ovulación
+83,"CLONAZEPAM 2mg, tableta, V.O.",Clonazepam,Antiepiléptico/ansiolítico
+84,"IBUPROFENO 400mg, cápsula o tableta, V.O.",Ibuprofeno,Antiinflamatorio no esteroideo (AINE)
+85,ESPIRAMICINA 1.0-1.5 millones UI...,Espiramicina,Antibiótico (macrólido)
+86,"LOPERAMIDA CLORHIDRATO, 2mg, cápsula o tableta...",Loperamida,Antidiarreico
+87,"SULPIRIDA 50mg, cápsula o tableta, V.O.",Sulpirida,Antipsicótico
+88,"SULPIRIDA 200mg, cápsula o tableta, V.O.",Sulpirida,Antipsicótico
+89,"HALOPERIDOL, 5MG, TABLETA, V.O.",Haloperidol,Antipsicótico
+90,CLINDAMICINA CLORHIDRATO 300mg...,Clindamicina,Antibiótico (lincosamida)
+91,"AMANTADINA 100mg, tableta, V.O.",Amantadina,Antiparkinsoniano/antiviral
+92,"VERAPAMILO CLORHIDRATO 120mg, tableta de acción prolongada",Verapamilo,Antihipertensivo (bloqueador de calcio)
+93,HIDROXICARBAMIDA (HIDROXIUREA) 500mg...,Hidroxiurea,Antineoplásico (leucemia)
+94,"GLICLAZIDA, 80mg, tableta, V.O.",Gliclazida,Antidiabético oral (hipoglucemiante)
+95,"PREDNISONA, 50MG, TABLETA, V.O.",Prednisona,Corticosteroide
+96,"VERAPAMILO CLORHIDRATO 80mg, tableta, V.O.",Verapamilo,Antihipertensivo (bloqueador de calcio)
+97,VALPROATO DE MAGNESIO/DIVALPROATO SÓDICO 500mg...,Ácido valproico (Valproato),Antiepiléptico
+98,"DANAZOL 200mg, cápsula o tableta, V.O.",Danazol,Hormona (antihemorrágico)
+99,"CAPTOPRIL, 25MG, TABLETA, V.O.",Captopril,Antihipertensivo (IECA)
+100,"COLCHICINA 0.5mg-0.6mg, tableta, V.O.",Colchicina,Antigotoso/antiinflamatorio
+101,"METFORMINA CLORHIDRATO 850mg, tableta ranurada, V.O.",Metformina,Antidiabético oral (biguanida)
+102,"SUCRALFATO 1g, tableta o gel oral, V.O.",Sucralfato,Gastroprotector (úlceras gástricas)
+103,"AMIODARONA CLORHIDRATO 200mg, tableta, V.O.",Amiodarona,Antiarrítmico (clase III)
+104,"PARACETAMOL (ACETAMINOFÉN) 300-325mg con CODEÍNA FOSFATO 30mg, tableta, V.O.",Paracetamol + Codeína,Analgésico opioide menor
+105,"LEVOTIROXINA SAL SÓDICA 0.1mg, tableta, V.O.",Levotiroxina,Hormona tiroidea (hipotiroidismo)
+106,"OXIBUTININA 5mg, tableta, V.O.",Oxibutinina,Antiespasmódico/vejiga hiperactiva
+107,"LAMOTRIGINA 100mg, tableta o tableta dispersable masticable, V.O.",Lamotrigina,Antiepiléptico (estabilizador del ánimo)
+108,"CLOZAPINA 100mg, tableta ranurada, V.O.",Clozapina,Antipsicótico atípico
+109,"ZOLPIDEM 10mg, tableta ranurada, V.O.",Zolpidem,Hipnótico (inductor del sueño)
+110,"TRIMETAZIDINA 20mg, tableta, V.O.",Trimetazidina,Antiisquémico (angina)
+111,"CLARITROMICINA 500mg, cápsula o tableta, V.O.",Claritromicina,Antibiótico (macrólido)
+112,"AZITROMICINA 500mg, cápsula o tableta, V.O.",Azitromicina,Antibiótico (macrólido)
+113,"LEVOFLOXACINA 500mg, tableta, V.O.",Levofloxacina,Antibiótico (quinolona)
+114,"LEFLUNOMIDA 20mg, tableta, V.O.",Leflunomida,Inmunomodulador (artritis reumatoide)
+115,"MORFINA SULFATO, 15MG, CAPSULA O TABLETA, V.O.",Morfina,Analgésico opioide mayor
+116,"MONTELUKAST 10mg, tableta, V.O.",Montelukast,Antiasmático (antileucotrieno)
+117,"MONTELUKAST 5mg, tableta masticable, V.O.",Montelukast,Antiasmático (antileucotrieno)
+118,"ACICLOVIR 400mg, cápsula o tableta, V.O.",Aciclovir,Antiviral (herpes)
+119,"DOXICICLINA 100mg, base clorhidrato o hiclato, cápsula o tableta, V.O.",Doxiciclina,Antibiótico (tetraciclina)
+120,"CLOPIDOGREL DISULFATO 75mg, tableta, V.O.",Clopidogrel,Antiagregante plaquetario
+121,"FENOFIBRATO 200-250mg, cápsula de liberación prolongada, V.O.",Fenofibrato,Hipolipemiante (fibrato)
+122,"CARVEDILOL 6.25mg, tableta, V.O.",Carvedilol,Antihipertensivo (beta-bloqueante)
+123,"AMLODIPINA 5mg, tableta, V.O.",Amlodipina,Antihipertensivo (bloqueador de calcio)
+124,"DILTIAZEM 180mg, cápsula o tableta, de liberación modificada, V.O.",Diltiazem,Antihipertensivo (bloqueador de calcio)
+125,"DILTIAZEM 60mg, cápsula o tableta, V.O.",Diltiazem,Antihipertensivo (bloqueador de calcio)
+126,"MICOFENOLATO MOFETILO 250mg, cápsula, V.O.",Micofenolato mofetilo,Inmunosupresor (trasplantes)
+127,"LAMIVUDINA 150mg, cápsula o tableta, V.O.",Lamivudina,Antirretroviral (VIH)
+128,"ITRACONAZOL, 100MG, CÁPSULA O TABLETA, V.O.",Itraconazol,Antifúngico (triazol)
+129,"INDAPAMIDA 1.5mg, tableta de acción prolongada, V.O.",Indapamida,Diurético/antihipertensivo (tiazida-like)
+130,"DEXAMETASONA 4mg, tableta, V.O.",Dexametasona,Corticosteroide sistémico
+131,"OLANZAPINA 10mg, tableta o tableta dispersable, V.O.",Olanzapina,Antipsicótico atípico
+132,"IMATINIB MESILATO 100mg, cápsula o tableta, V.O.",Imatinib,Antineoplásico (inhibidor de tirosina quinasa)
+133,"CAPECITABINA, 500MG, TABLETA O CÁPSULA, V.O.",Capecitabina,Antineoplásico (quimioterapia oral)
+134,"LETROZOL 2.5mg, tableta, V.O.",Letrozol,Antineoplásico (inhibidor de aromatasa)
+135,"LISINOPRIL, 20mg, tableta, V.O.",Lisinopril,Antihipertensivo (IECA)
+136,"AMOXICILINA, 500MG, CÁPSULA, V.O.",Amoxicilina,Antibiótico
+137,"CIPROFLOXACINO, 500MG, TABLETA, V.O.",Ciprofloxacino,Antibiótico
+138,"AZITROMICINA, 500MG, TABLETA, V.O.",Azitromicina,Antibiótico
+139,"DICLOFENACO SÓDICO, 50MG, TABLETA, V.O.",Diclofenaco sódico,Antiinflamatorio no esteroideo (AINE)
+140,"IBUPROFENO, 400MG, TABLETA, V.O.",Ibuprofeno,Antiinflamatorio no esteroideo (AINE)
+141,"NAPROXENO SÓDICO, 550MG, TABLETA, V.O.",Naproxeno sódico,Antiinflamatorio no esteroideo (AINE)
+142,"PARACETAMOL (ACETAMINOFÉN), 500MG, TABLETA, V.O.",Paracetamol (Acetaminofén),Analgésico/antipirético
+143,"ÁCIDO ACETILSALICÍLICO (ASPIRINA), 100MG, TABLETA, V.O.",Ácido acetilsalicílico (Aspirina),Analgésico/antipirético
+144,"LORATADINA, 10MG, TABLETA, V.O.",Loratadina,Antihistamínico
+145,"CETIRIZINA, 10MG, TABLETA, V.O.",Cetirizina,Antihistamínico
+146,"PREDNISONA, 5MG, TABLETA, V.O.",Prednisona,Corticosteroide
+147,"HIDROCORTISONA, 20MG, TABLETA, V.O.",Hidrocortisona,Corticosteroide
+148,"OMEPRAZOL, 20MG, CÁPSULA, V.O.",Omeprazol,Inhibidor de la bomba de protones (IBP)
+149,"RANITIDINA, 150MG, TABLETA, V.O.",Ranitidina,Antagonista del receptor H2
+150,"METFORMINA, 850MG, TABLETA, V.O.",Metformina,Antidiabético oral (biguanida)
+151,"GLIBENCLAMIDA, 5MG, TABLETA, V.O.",Glibenclamida,Antidiabético oral (sulfonilurea)
+152,"LOSARTÁN POTÁSICO, 50MG, TABLETA, V.O.",Losartán potásico,Antagonista del receptor de angiotensina II (ARA II)
+153,"ENALAPRIL MALEATO, 10MG, TABLETA, V.O.",Enalapril maleato,Inhibidor de la enzima convertidora de angiotensina (IECA)
+154,"AMLODIPINO BESILATO, 5MG, TABLETA, V.O.",Amlodipino besilato,Bloqueador de los canales de calcio
+155,"HIDROCLOROTIAZIDA, 25MG, TABLETA, V.O.",Hidroclorotiazida,Diurético tiazídico
+156,"ATORVASTATINA CÁLCICA, 20MG, TABLETA, V.O.",Atorvastatina cálcica,Inhibidor de la HMG-CoA reductasa (estatina)
+157,"SIMVASTATINA, 20MG, TABLETA, V.O.",Simvastatina,Inhibidor de la HMG-CoA reductasa (estatina)
+158,"LEVOTIROXINA SÓDICA, 100MCG, TABLETA, V.O.",Levotiroxina sódica,Hormona tiroidea
+159,"ALPRAZOLAM, 0.5MG, TABLETA, V.O.",Alprazolam,Benzodiazepina
+160,"CLONAZEPAM, 2MG, TABLETA, V.O.",Clonazepam,Benzodiazepina
+161,"FLUOXETINA CLORHIDRATO, 20MG, CÁPSULA, V.O.",Fluoxetina clorhidrato,Inhibidor selectivo de la recaptación de serotonina (ISRS)
+162,"SERTRALINA CLORHIDRATO, 50MG, TABLETA, V.O.",Sertralina clorhidrato,Inhibidor selectivo de la recaptación de serotonina (ISRS)
+163,"CARBAMAZEPINA, 200MG, TABLETA, V.O.",Carbamazepina,Anticonvulsivante
+164,"ÁCIDO VALPROICO, 250MG, TABLETA, V.O.",Ácido valproico,Anticonvulsivante
+165,"FUROSEMIDA, 40MG, TABLETA, V.O.",Furosemida,Diurético de asa
+166,"ESPIRONOLACTONA, 25MG, TABLETA, V.O.",Espironolactona,Diurético ahorrador de potasio
+167,"AMLODIPINO/BENAZEPRIL, 5MG/10MG, CÁPSULA, V.O.",Amlodipino/Benazepril,Antihipertensivo (bloqueador de canales de calcio/IECA)
+168,"LOSARTÁN/HIDROCLOROTIAZIDA, 50MG/12.5MG, TABLETA, V.O.",Losartán/Hidroclorotiazida,Antihipertensivo (ARA II/diurético)
+169,"ENALAPRIL/HIDROCLOROTIAZIDA, 10MG/25MG, TABLETA, V.O.",Enalapril/Hidroclorotiazida,Antihipertensivo (IECA/diurético)
+170,"ATORVASTATINA/AMLODIPINO, 10MG/5MG, TABLETA, V.O.",Atorvastatina/Amlodipino,Antihiperlipidémico/Antihipertensivo
+171,"SIMVASTATINA/EZETIMIBA, 10MG/10MG, TABLETA, V.O.",Simvastatina/Ezetimiba,Antihiperlipidémico
+172,"INSULINA GLARGINA, 100 UI/ML, SOLUCIÓN INYECTABLE, S.C.",Insulina glargina,Insulina de acción prolongada
+173,"INSULINA ASPARTA, 100 UI/ML, SOLUCIÓN INYECTABLE, S.C.",Insulina asparta,Insulina de acción rápida
+174,"METFORMINA/SITAGLIPTINA, 500MG/50MG, TABLETA, V.O.",Metformina/Sitagliptina,Antidiabético oral (biguanida/inhibidor DPP-4)
+175,"GLIMEPIRIDA, 2MG, TABLETA, V.O.",Glimepirida,Antidiabético oral (sulfonilurea)
+176,"ACETAMINOFÉN/CODEÍNA, 300MG/30MG, TABLETA, V.O.",Acetaminofén/Codeína,Analgésico opioide
+177,"TRAMADOL CLORHIDRATO, 50MG, CÁPSULA, V.O.",Tramadol clorhidrato,Analgésico opioide
+178,"MORFINA SULFATO, 10MG, TABLETA DE LIBERACIÓN PROLONGADA, V.O.",Morfina sulfato,Analgésico opioide
+179,"HIDROCLORURO DE PROPRANOLOL, 40MG, TABLETA, V.O.",Propranolol clorhidrato,Betabloqueante
+180,"METOPROLOL SUCCINATO DE LIBERACIÓN PROLONGADA, 50MG, TABLETA, V.O.",Metoprolol succinato,Betabloqueante
+181,"ATENOLOL, 50MG, TABLETA, V.O.",Atenolol,Betabloqueante
+182,"CAPTOPRIL, 25MG, TABLETA, V.O.",Captopril,Inhibidor de la enzima convertidora de angiotensina (IECA)
+183,"LISINOPRIL, 10MG, TABLETA, V.O.",Lisinopril,Inhibidor de la enzima convertidora de angiotensina (IECA)
+184,"VALSARTÁN, 80MG, TABLETA, V.O.",Valsartán,Antagonista del receptor de angiotensina II (ARA II)
+185,"IRBESARTÁN, 150MG, TABLETA, V.O.",Irbesartán,Antagonista del receptor de angiotensina II (ARA II)
+186,"DIGOXINA, 0.25MG, TABLETA, V.O.",Digoxina,Glucósido cardíaco
+187,"AMIODARONA CLORHIDRATO, 200MG, TABLETA, V.O.",Amiodarona clorhidrato,Antiarrítmico
+188,"WARFARINA SÓDICA, 5MG, TABLETA, V.O.",Warfarina sódica,Anticoagulante
+189,"ACENOCUMAROL, 4MG, TABLETA, V.O.",Acenocumarol,Anticoagulante
+190,"CLOPIDOGREL BISULFATO, 75MG, TABLETA, V.O.",Clopidogrel bisulfato,Antiagregante plaquetario
+191,"ÁCIDO ACETILSALICÍLICO (ASPIRINA), 81MG, TABLETA ENTÉRICA, V.O.",Ácido acetilsalicílico (Aspirina),Antiagregante plaquetario
+192,"FUROSEMIDA, 20MG/2ML, SOLUCIÓN INYECTABLE, I.V./I.M.",Furosemida,Diurético de asa
+193,"HIDROCLOROTIAZIDA, 50MG, TABLETA, V.O.",Hidroclorotiazida,Diurético tiazídico
+194,"ESPIRONOLACTONA, 100MG, TABLETA, V.O.",Espironolactona,Diurético ahorrador de potasio
+195,"MANITOL, 20%, SOLUCIÓN PARA INFUSIÓN, I.V.",Manitol,Diurético osmótico
+196,"BUMETANIDA, 1MG, TABLETA, V.O.",Bumetanida,Diurético de asa
+197,"TRIAMTERENO/HIDROCLOROTIAZIDA, 50MG/25MG, CÁPSULA, V.O.",Triamtereno/Hidroclorotiazida,Diurético ahorrador de potasio/tiazídico
+198,"AMILORIDA/HIDROCLOROTIAZIDA, 5MG/50MG, TABLETA, V.O.",Amilorida/Hidroclorotiazida,Diurético ahorrador de potasio/tiazídico
+199,"CAPTOPRIL/HIDROCLOROTIAZIDA, 25MG/15MG, TABLETA, V.O.",Captopril/Hidroclorotiazida,Antihipertensivo (IECA/diurético)
+200,"ENALAPRIL/LERCANIDIPINO, 10MG/10MG, TABLETA, V.O.",Enalapril/Lercanidipino,Antihipertensivo (IECA/bloqueador de canales de calcio)
+201,"VALSARTÁN/AMLODIPINO, 160MG/5MG, TABLETA, V.O.",Valsartán/Amlodipino,Antihipertensivo (ARA II/bloqueador de canales de calcio)
+202,"OLMESARTÁN/HIDROCLOROTIAZIDA, 20MG/12.5MG, TABLETA, V.O.",Olmesartán/Hidroclorotiazida,Antihipertensivo (ARA II/diurético)
+203,"BISOPROLOL FUMARATO, 5MG, TABLETA, V.O.",Bisoprolol fumarato,Betabloqueante selectivo
+204,"CARVEDILOL, 25MG, TABLETA, V.O.",Carvedilol,Betabloqueante no selectivo (alfa y beta)
+205,"NEBIVOLOL CLORHIDRATO, 5MG, TABLETA, V.O.",Nebivolol clorhidrato,Betabloqueante selectivo con vasodilatación
+206,"DOXAZOSINA MESILATO, 2MG, TABLETA, V.O.",Doxazosina mesilato,Bloqueador alfa-1 adrenérgico
+207,"TERAZOSINA CLORHIDRATO, 5MG, TABLETA, V.O.",Terazosina clorhidrato,Bloqueador alfa-1 adrenérgico
+208,"PRAZOSINA CLORHIDRATO, 1MG, TABLETA, V.O.",Prazosina clorhidrato,Bloqueador alfa-1 adrenérgico
+209,"HIDRALAZINA CLORHIDRATO, 25MG, TABLETA, V.O.",Hidralazina clorhidrato,Vasodilatador directo
+210,"MINOXIDIL, 5MG, TABLETA, V.O.",Minoxidil,Vasodilatador
+211,"NITROGLICERINA, 0.4MG, TABLETA SUBLINGUAL, S.L.",Nitroglicerina,Nitrato (antianginoso)
+212,"ISOSORBIDE MONONITRATO, 20MG, TABLETA DE LIBERACIÓN PROLONGADA, V.O.",Isosorbide mononitrato,Nitrato (antianginoso)
+213,"ISOSORBIDE DINITRATO, 10MG, TABLETA, V.O.",Isosorbide dinitrato,Nitrato (antianginoso)
+214,"VERAPAMILO CLORHIDRATO, 80MG, TABLETA, V.O.",Verapamilo clorhidrato,Bloqueador de los canales de calcio
+215,"DILTIAZEM CLORHIDRATO, 60MG, TABLETA, V.O.",Diltiazem clorhidrato,Bloqueador de los canales de calcio
+216,"NIFEDIPINO, 10MG, CÁPSULA DE LIBERACIÓN INMEDIATA, V.O.",Nifedipino,Bloqueador de los canales de calcio
+217,"FUROSEMIDA, 40MG, TABLETA, V.O.",Furosemida,Diurético de asa
+218,"HIDROCLOROTIAZIDA, 25MG, TABLETA, V.O.",Hidroclorotiazida,Diurético tiazídico
+219,"ESPIRONOLACTONA, 25MG, TABLETA, V.O.",Espironolactona,Diurético ahorrador de potasio
+220,"ATORVASTATINA CÁLCICA, 40MG, TABLETA, V.O.",Atorvastatina cálcica,Inhibidor de la HMG-CoA reductasa (estatina)
+221,"SIMVASTATINA, 40MG, TABLETA, V.O.",Simvastatina,Inhibidor de la HMG-CoA reductasa (estatina)
+222,"ROSUVASTATINA CÁLCICA, 10MG, TABLETA, V.O.",Rosuvastatina cálcica,Inhibidor de la HMG-CoA reductasa (estatina)
+223,"EZETIMIBA, 10MG, TABLETA, V.O.",Ezetimiba,Inhibidor de la absorción de colesterol
+224,"FENOFIBRATO, 200MG, CÁPSULA, V.O.",Fenofibrato,Fibrato (hipolipemiante)
+225,"GEMFIBROZILO, 600MG, TABLETA, V.O.",Gemfibrozilo,Fibrato (hipolipemiante)
+226,"COLESTIRAMINA, 4G, POLVO PARA SUSPENSIÓN ORAL, V.O.",Colestiramina,Secuestrante de ácidos bilia
+227,"COLESTIRAMINA, 4G, POLVO PARA SUSPENSIÓN ORAL, V.O.",Colestiramina,Secuestrante de ácidos biliares (hipolipemiante)
+228,"ÁCIDO NICOTÍNICO (NIACINA), 500MG, TABLETA DE LIBERACIÓN PROLONGADA, V.O.",Ácido nicotínico (Niacina),Otro agente hipolipemiante
+229,"ALOPURINOL, 300MG, TABLETA, V.O.",Alopurinol,Inhibidor de la xantina oxidasa (antigotoso)
+230,"COLCHICINA, 0.5MG, TABLETA, V.O.",Colchicina,Antigotoso
+231,"PROBENECID, 500MG, TABLETA, V.O.",Probenecid,Uricosúrico (antigotoso)
+232,"SULFATO FERROSO, 300MG, TABLETA, V.O.",Sulfato ferroso,Suplemento de hierro (antianémico)
+233,"VITAMINA B12 (CIANOCOBALAMINA), 1000MCG, TABLETA SUBLINGUAL, V.O.",Cianocobalamina,Suplemento vitamínico (antianémico)
+234,"ÁCIDO FÓLICO, 5MG, TABLETA, V.O.",Ácido fólico,Suplemento vitamínico (antianémico)
+235,"ERITROPOYETINA HUMANA RECOMBINANTE (EPO), 4000 UI, SOLUCIÓN INYECTABLE, S.C./I.V.",Eritropoyetina (EPO),Estimulante de la eritropoyesis (antianémico)
+236,"MEDROXIPROGESTERONA, larga acción, 150mg/ml, solución, I.M.",Medroxiprogesterona,Hormona progestágena
+237,"FENTANILO 0.05mg/ml, I.M., I.V. (Control Narcóticos)",Fentanilo,Analgésico opioide
+238,"FUROSEMIDA 10mg/ml, solución, I.M., I.V.",Furosemida,Diurético de asa
+239,"ATROPINA SULFATO 1mg/ml, solución, S.C., I.M., I.V.",Atropina,Anticolinérgico
+240,"GENTAMICINA SULFATO 40mg/ml, solución, I.M., I.V.",Gentamicina,Antibiótico aminoglucósido
+241,"KETAMINA 50mg/ml, solución, I.M., I.V.",Ketamina,Anestésico disociativo
+242,"CICLOFOSFAMIDA 500mg–1g, polvo liofilizado, I.V.",Ciclofosfamida,Agente antineoplásico
+243,"MANITOL 20%, solución para Infusión Intravenosa",Manitol,Diurético osmótico
+244,"HALOPERIDOL 5mg/ml, solución, I.M.",Haloperidol,Antipsicótico
+245,"HIDRALAZINA CLORHIDRATO 20mg/ml, polvo o solución, I.M., I.V.",Hidralazina,Vasodilatador
+246,"OXACILINA SÓDICA 1g, polvo liofilizado, I.V.",Oxacilina,Antibiótico penicilínico
+247,"DACARBAZINA CITRATO 200mg, polvo liofilizado, I.V.",Dacarbazina,Antineoplásico
+248,"AMIKACINA SULFATO 250 MG/ML, solución, I.M., I.V.",Amikacina,Antibiótico aminoglucósido
+249,"BUPIVACAÍNA CLORHIDRATO 0.5%, solución, Vía Parenteral",Bupivacaína,Anestésico local
+250,"DICLOFENACO SÓDICO 25mg/ml, solución, I.M. o I.M./I.V.",Diclofenaco,Antiinflamatorio no esteroideo
+251,"AMINOÁCIDOS CRISTALINOS al 10%, solución, 500ml, I.V.",Aminoácidos,Nutrición parenteral
+252,"DOPAMINA CLORHIDRATO 4050mg/ml, solución, I.V.",Dopamina,Vasopresor
+253,"VERAPAMILO CLORHIDRATO 5mg, solución, I.V.",Verapamilo,Bloqueador de canales de calcio
+254,"MITOMICINA 5mg, polvo liofilizado, I.V.",Mitomicina,Antineoplásico
+255,"CARMUSTINA 100mg, polvo liofilizado, I.V.",Carmustina,Antineoplásico
+256,"DIPIRONA CON SALES MAGNÉSICAS 2g/5ml, solución, I.M., I.V.",Dipirona,Analgésico/antipirético
+257,"FENITOÍNA SÓDICA 50mg/ml, solución, I.V.",Fenitoína,Antiepiléptico
+258,"AMINOFILINA 25mg/ml, solución, I.V.",Aminofilina,Broncodilatador
+259,"ADRENALINA CLORURO (EPINEFRINA) 1:1,000, 1mg/ml, solución, 1ml, S.C. I.M. I.V.",Adrenalina,Vasopresor
+260,"ISOPROTERENOL 0.2mg/ml, solución, I.V.",Isoproterenol,Broncodilatador
+261,"PROPRANOLOL CLORHIDRATO 1mg/ml, solución, I.V.",Propranolol,Beta-bloqueante
+262,"ACETILCOLINA CLORURO 1:100 o CARBACOL 0.01%, solución estéril, Vía Oftálmica",Acetilcolina,Agente colinérgico
+263,"DIGOXINA 0.25mg/ml, solución, I.V.",Digoxina,Cardiotónico
+264,"ALBÚMINA HUMANA POBRE EN SODIO 10g/50ml (20%) ó 12.5g/50ml (25%), solución, I.V.",Albúmina humana,Expansor plasmático
+265,"DIMENHIDRINATO 10mg/ml, solución, I.V.",Dimenhidrinato,Antiemético
+266,"FITOMENADIONA (VITAMINA K) 10mg/ml, solución, I.M., I.V.",Fitomenadiona,Coagulante
+267,"AMINOCAPRÓICO ÁCIDO 250mg/ml, solución, I.V.",Ácido aminocaproico,Antifibrinolítico
+268,"HEPARINA SÓDICA 5,000UI/ml, solución, I.V., S.C.",Heparina,Anticoagulante
+269,"PROTAMINA CLORHIDRATO o SULFATO 10mg/ml ó 1,000U/ml, solución, I.V.",Protamina,Antagonista de heparina
+270,"METOTREXATE 25mg/ml, solución isotónica parenteral libre de preservativos, I.M., I.T., I.V.",Metotrexato,Antineoplásico
+271,"VINCRISTINA SULFATO 1mg, polvo liofilizado o solución, I.V.",Vincristina,Antineoplásico
+272,"ANFOTERICINA B 50mg, polvo liofilizado, I.V.",Anfotericina B,Antifúngico
+273,"CEFALOTINA SÓDICA 1g, polvo liofilizado, I.V.",Cefalotina,Antibiótico cefalosporina
+274,"SUERO ANTIOFÍDICO, POLIVALENTE, (QUE INCLUYE ANTI-B ASPER/ATROX), CON ANTILAQUÉSICO, solución, vial, 10ml, I.V.",Suero antiofídico,Antídoto
+275,"DIAZEPAM 5mg/ml, solución, I.M., I.V.",Diazepam,Ansiolítico
+276,"SUXAMETONIO (SUCCINILCOLINA) CLORURO 50mg/ml, polvo liofilizado, I.V.",Succinilcolina,Relajante muscular
+277,"CISPLATINO 10mg, polvo liofilizado o solución, I.V.",Cisplatino,Antineoplásico
+278,"CLINDAMICINA FOSFATO 150mg/ml, solución, I.M., I.V.",Clindamicina,Antibiótico lincosamida
+279,"METILPREDNISOLONA SUCCINATO SÓDICO 500mg polvo liofilizado o solución, I.V.",Metilprednisolona,Corticosteroide
+280,"SALINA BALANCEADA, solución estéril, Uso Intraocular",Solución salina balanceada,Irrigación
+281,"CEFTRIAXONA SÓDICA 500mg, polvo liofilizado, con diluyente lidocaína 1%, I.M.",Ceftriaxona,Antibiótico cefalosporina
+282,"CEFTRIAXONA SÓDICA 1g, polvo liofilizado, I.V.",Ceftriaxona,Antibiótico cefalosporina
+283,"CEFOXITINA SÓDICA 1g, polvo liofilizado, I.V.",Cefoxitina,Antibiótico cefalosporina
+284,"DOBUTAMINA 250mg, solución, I.V.",Dobutamina,Inotrópico
+285,"VANCOMICINA 500mg, polvo liofilizado, I.V.",Vancomicina,Antibiótico glicopéptido
+286,"ASPARAGINASA 10,000UI, polvo liofilizado, I.V.",Asparaginasa,Antineoplásico
+287,"ETOPÓSIDO 20mg/ml, solución, I.V.",Etopósido,Antineoplásico
+288,"CEFOTAXIMA 1g, polvo liofilizado, I.V.",Cefotaxima,Antibiótico cefalosporina
+289,"MORFINA CLORHIDRATO o SULFATO 10mg/ml, solución, S.C., I.M., I.V.",Morfina,Analgésico opioide
+290,"METRONIDAZOL 500mg, solución, I.V.",Metronidazol,Antibiótico/antiparasitario
+291,"INDOMETACINA SÓDICA 1mg, polvo liofilizado o solución, I.V.",Indometacina,Antiinflamatorio no esteroideo
+292,"EMULSIÓN DE LÍPIDOS DE CUARTA GENERACIÓN: ACEITE DE SOYA 40-60g/1000ml, TRIGLICÉRIDOS DE CADENA MEDIA 40-60g/1000ml, ACEITE DE OLIVA 40-60g/1000ml, ACEITE DE PESCADO RICO EN OMEGA-3 20-30g/1000ml, bolsa plástica o frasco, 500ml, I.V.",Emulsión lipídica,Nutrición parenteral
+293,"CEFTAZIDIMA 1g, polvo liofilizado, I.M., I.V.",Ceftazidima,Antibiótico cefalosporina
+294,"INSULINA NPH (HUMANA) 100UI/ml, suspensión, S.C.",Insulina NPH,Antidiabético
+295,"INSULINA REGULAR (HUMANA) 100UI/ml, solución, S.C., I.V.",Insulina regular,Antidiabético
+296,"INMUNOGLOBULINA 5-10g, polvo liofilizado o solución, I.V.",Inmunoglobulina,Inmunomodulador
+297,"PROPOFOL 10mg/ml, emulsión, I.V.",Propofol,Anestésico general
+298,"ACICLOVIR 25mg/ml, polvo liofilizado, I.V.",Aciclovir,Antiviral
+299,"ERITROPOYETINA 2,000UI, solución, polvo liofilizado, S.C., I.V.",Eritropoyetina,Estimulante eritropoyesis
+300,"IFOSFAMIDA 1g, polvo liofilizado, I.V.",Ifosfamida,Antineoplásico
+301,"MESNA 100mg/ml, solución, I.V.",Mesna,Protector urotelial
+302,"MIDAZOLAM 5mg/ml, solución, I.V.",Midazolam,Sedante/ansiolítico
+303,"LEUCOVORINA CÁLCICA (ACIDO FOLÍNICO) 50mg, polvo liofilizado o solución, I.M., I.V.",Leucovorina,Antídoto/antagonista de metotrexato
+304,"FACTOR VIII ANTIHEMOFÍLICO HUMANO DE ORIGEN PLASMÁTICO CON O SIN FACTOR DE VON WILLEBRAND, con doble inactivación viral o inactivación viral y eliminación viral 250-1,000UI, solución o polvo, vial, I.V.",Factor VIII,Coagulante
+305,"GLICERIL TRINITRATO (NITROGLICERINA) 5mg/ml, solución, I.V.",Nitroglicerina,Vasodilatador coronario
+306,"COMPLEJO PROTROMBÍNICO, con un mínimo de 200UI de FACTOR IX, solución o polvo liofilizado, I.V.",Complejo protrombínico,Coagulante
+307,"CARBAPENEM: IMIPENEM 500mg con CILASTATINA 500mg, polvo liofilizado, I.V.",Imipenem/Cilastatina,Antibiótico carbapenémico
+308,"GANCICLOVIR 500mg, polvo liofilizado, I.V.",Ganciclovir,Antiviral
+309,"SURFACTANTE PULMONAR: COLFOSCERILO PALMITATO o FOSFOLÍPIDO 100-240mg, suspensión, Vía Endotraqueal",Surfactante pulmonar,Agente pulmonar
+310,"NIMODIPINA 10mg/50ml, solución, I.V.",Nimodipina,Bloqueador de canales de calcio
+311,"OCTREOTIDE 0.1mg, solución, I.V., S.C.",Octreótido,Inhibidor de hormona de crecimiento
+312,"SODIO CLORURO, 0.9%, solución, envase plástico (bolsa o frasco), 3,000ml, I.V.",Cloruro de sodio,Solución electrolítica
+313,"FLUMAZENIL 0.1mg/ml, solución, I.V.",Flumazenil,Antagonista de benzodiazepinas
+314,"CARBOPLATINO 150mg, polvo liofilizado o solución, I.V.",Carboplatino,Antineoplásico
+315,"INMUNOGLOBULINA 2.5-3g, polvo liofilizado o solución, I.V.",Inmunoglobulina,Inmunomodulador
+316,"CIPROFLOXACINA LACTATO 200mg, solución, I.V.",Ciprofloxacina,Antibiótico quinolona
+317,"FLUCONAZOL 2mg/ml, solución, I.V.",Fluconazol,Antifúngico
+318,"HEPARINA DE BAJO PESO MOLECULAR, CON ACTIVIDAD ANTI-Xa 2,500-4,000UI, solución, jeringa prellenada, S.C.",Heparina de bajo peso molecular,Anticoagulante
+319,"CEFEPIME 1g, polvo liofilizado, I.V.",Cefepime,Antibiótico cefalosporina
+320,"FACTOR ESTIMULANTE DE COLONIAS DE GRANULOCITOS (G-CSF): FILGRASTIM 300mcg, solución, S.C., I.V.",Filgrastim,Estimulante de médula ósea
+321,"MEROPENEM 1g, polvo liofilizado, I.V.",Meropenem,Antibiótico carbapenémico
+322,"PIPERACILINA 4g con TAZOBACTAM 500mg, polvo liofilizado, I.V.",Piperacilina/Tazobactam,Antibiótico penicilínico
+323,"AMINOÁCIDOS CRISTALINOS al 10%, con CISTEÍNA, HISTIDINA, TAURINA y TIROSINA, solución, 250-500ml, I.V.",Aminoácidos,Nutrición parenteral
+324,"DEXTROSA HIPERTÓNICA 50% a 70%, solución, 500ml a 2,000ml, I.V.",Dextrosa,Solución hipertónica
+325,"OLIGOELEMENTOS o ELEMENTOS TRAZAS PARA ADULTOS CON ZINC, COBRE, MANGANESO Y CROMO, solución, I.V.",Oligoelementos,Suplemento nutricional
+326,"POTASIO FOSFATO 3mmol/ml, solución, I.V.",Fosfato de potasio,Electrolito
+327,"AGUA ESTÉRIL, frasco o bolsa, 1,000-4,000ml, Vía Parenteral",Agua estéril,Solvente
+328,"OMEPRAZOL, 40MG, POLVO LIOFILIZADO, I.V.",Omeprazol,Inhibidor de bomba de protones
+329,"HIERRO NO DEXTRÁN, 10-20MG/ML, SOLUCIÓN, I.V.",Hierro,Suplemento mineral
+330,"TIROFIBAN CLORHIDRATO 0.25mg/ml, solución, I.V.",Tirofiban,Antiagregante plaquetario
+331,"DEXTROSA EN AGUA, AL 5% EN SOLUCIÓN SALINA AL 0.33%, SOLUCIÓN, ENVASE PLÁSTICO (BOLSA O FRASCO), CON EQUIPO ADAPTABLE DESECHABLE PARA INFUSIÓN INTRAVENOSA, 500ML.",Dextrosa al 5% en solución salina,Solución intravenosa
+332,"AMIODARONA 50mg/ml, solución, I.V.",Amiodarona,Antiarrítmico
+333,"ADENOSINA, 3MG/ML, SOLUCIÓN, I.V.",Adenosina,Antiarrítmico
+334,"LEVOFLOXACINA, 500MG, SOLUCIÓN, I.V.",Levofloxacina,Antibiótico quinolona
+335,"METOTREXATE, 1G, SOLUCIÓN, I.M., I.T., I.V.",Metotrexato,Antineoplásico
+336,"CITARABINA 500mg-1000mg,  polvo estéril para solución inyectable,  I.V. Infusión I.V., S.C., Intratecal.",CITARABINA,Antineoplásico (antimetabolito)
+337,"GEMCITABINA CLORHIDRATO 1g, polvo liofilizado,  I.V.",GEMCITABINA CLORHIDRATO,Antineoplásico (antimetabolito)
+338,"ROCURONIO BROMURO 10mg/ml, solución, I.V. ",ROCURONIO BROMURO,Relajante muscular (bloqueante neuromuscular)
+339,"DEXTROSA EN AGUA, AL 5% EN SOLUCIÓN SALINA AL 0.45%, SOLUCIÓN, ENVASE PLÁSTICO (BOLSA O FRASCO), CON EQUIPO ADAPTABLE DESECHABLE PARA INFUSIÓN INTRAVENOSA, 500ML.",DEXTROSA EN AGUA (5% + 0.45% salina),Solución intravenosa (nutrición/hidratación)
+340,"BASILIXIMAB, 20MG, POLVO LIOFILIZADO,  I.V.",BASILIXIMAB,Inmunosupresor (anticuerpo monoclonal anti-CD25)
+341,"LEUPRORELINA (LEUPROLIDE) ACETATO, 11.25MG, POLVO LIOFILIZADO, S.C., I.M.",LEUPRORELINA (LEUPROLIDE) ACETATO,"Hormonal (análogo de GnRH, supresor hormonal)"
+342,"RITUXIMAB 100mg, solución, I.V.",RITUXIMAB,Antineoplásico/inmunosupresor (anti-CD20)
+343,"EPOETINA  (ERITROPOYETINA)  20,000-50,000UI, solución o polvo, S.C., I.V.",EPOETINA (ERITROPOYETINA),Agente hematopoyético (estimulante de eritropoyesis)
+344,"ZOLEDRÓNICO ÁCIDO 4mg, solución, I.V. ",ZOLEDRÓNICO ÁCIDO,Osteoprotector (bifosfonato)
+345,"INTERFERON BETA 1B, 250 MCG (8 MILLONES UI)/ML, POLVO LIOFILIZADO, SC.",INTERFERON BETA 1B,Inmunomodulador (esclerosis múltiple)
+346,"Interferon beta 1a, 44mcg (12 millones UI), solución, sin albúmina, S.C.",INTERFERON BETA 1A,Inmunomodulador (esclerosis múltiple)
+347,"Interferon beta 1a, 30mcg (6 millones UI), polvo liofilizado, I.M.",INTERFERON BETA 1A,Inmunomodulador (esclerosis múltiple)
+348,"IRINOTECAN CLORHIDRATO 20mg/ml, solución, I.V.",IRINOTECAN CLORHIDRATO,Antineoplásico (inhibidor de topoisomerasa I)
+349,"RITUXIMAB 500mg, solución, I.V.",RITUXIMAB (500mg),Antineoplásico/inmunosupresor (anti-CD20)
+350,"MEGLUMINA ANTIMONIATO 1.5g/5ml, sal activa en solución 81mg/ml,  I.M., I.V.",MEGLUMINA ANTIMONIATO,Antiparasitario (leishmaniasis)
+351,"INSULINA ANÁLOGA DE ACCIÓN PROLONGADA GLARGINA, 100UI/ml, solución, S.C. ",INSULINA GLARGINA,Antidiabético (análogo de insulina de acción prolongada)
+352,"TOCILIZUMAB 20mg/ml, solución concentrada, I.V.",TOCILIZUMAB,Inmunosupresor (antagonista de IL-6)
+353,"Tigeciclina clorhidrato, 50mg, polvo liofilizado, I.V.",TIGECICLINA CLORHIDRATO,Antibiótico (glicilciclina)
+354,"Ertapenem, 1g, polvo liofilizado para solución inyectable, I.M., I.V.",ERTAPENEM,Antibiótico (carbapenémico)
+355,"Trimetoprin 16mg con Sulfametoxazol 80mg/ml, solución, I.V.",TRIMETOPRIM/SULFAMETOXAZOL,Antibiótico (combinación)
+356,"Octreotide, 20mg, acción prolongada, polvo liofilizado, I.M.",OCTREOTIDE,Hormonal (análogo de somatostatina)
+357,"Labetalol Hidrocloruro 5mg/ml, solucion, I.V. ",LABETALOL HIDROCLORURO,Antihipertensivo (bloqueante alfa y beta)
+358,"Busulfano, 6mg/ml, solución, I.V.",BUSULFANO,Antineoplásico (agente alquilante)
+359,"CASPOFUNGINA 50mg, polvo liofilizado, I.V.",CASPOFUNGINA,Antifúngico (equinocandina)
+360,"CICLOSPORINA 50mg/ml, solución,  I.V. (x10)",CICLOSPORINA,Inmunosupresor (inhibidor de calcineurina)
+361,"CLADRIBINA 1-2 mg/ml, Solución Inyectable, I.V. o SC.",CLADRIBINA,Antineoplásico/inmunosupresor (análogo de purina)
+362,"DAUNORUBICINA HIDROCLORURO 20mg, polvo liofilizado, I.V.",DAUNORUBICINA HIDROCLORURO,Antineoplásico (antraciclina)
+363,"Etanercept,  50mg,  S.C.",ETANERCEPT,Inmunosupresor (anti-TNF)
+364,"Factor VIII rico en Factor Von Willebrand, 250-500UI, polvo liofilizado, vial, I.V.           X250",FACTOR VIII + FACTOR VON WILLEBRAND,Hemostático (factor de coagulación)
+365,"FLUDARABINA FOSFATO  50mg,  polvo liofilizado, vial, I.V.",FLUDARABINA FOSFATO,Antineoplásico (análogo de purina)
+366,"Heparina bajo peso molecular (Enoxaparina Sódica), actividad anti-Xa 8,000UI, solución, jeringa prellenada, 0.8ml, S.C.",ENOXAPARINA SÓDICA,Anticoagulante (heparina de bajo peso molecular)
+367,"Infliximab, 100mg, polvo liofilizado, I.V.",INFLIXIMAB,Inmunosupresor (anti-TNF)
+368,"LEVOBUPIVACAÍNA CLORHIDRATO 5mg/ml, solución, Vía Parenteral.",LEVOBUPIVACAÍNA CLORHIDRATO,Anestésico local (aminoamida)
+369,"Linezolid, 600mg, solución, I.V.",LINEZOLID,Antibiótico (oxazolidinona)
+370,"MELFALANO CLORHIDRATO 50mg, polvo liofilizado, I.V.",MELFALANO CLORHIDRATO,Antineoplásico (agente alquilante)
+371,"Milrinona, 1mg/ml, solución, I.V. ",MILRINONA,Cardiotónico (inhibidor de fosfodiesterasa III)
+372,"Paricalcitol, 5mcg/ml, solución,  I.V. ",PARICALCITOL,Vitamina D (análogo para hiperparatiroidismo)
+373,"POLIMIXINA B SULFATO 500,000UI, polvo o solución, I.M., I.V.",POLIMIXINA B SULFATO,Antibiótico (polipéptido)
+374,"Teicoplanina, 400mg, polvo liofilizado, I.M, I.V.",TEICOPLANINA,Antibiótico (glicopéptido)
+375,"TOXINA BOTULÍNICA TIPO A 100UI, polvo, I.M.   ",TOXINA BOTULÍNICA TIPO A,Neurotoxina (tratamiento de espasticidad/distonías)
+376,"Tramadol clorhidrato, 50mg/ml, solucion, I.V.",TRAMADOL CLORHIDRATO,Analgésico opioide
+377,"LEVOSIMENDAN 2.5mg/ml, solución, I.V.     ",LEVOSIMENDAN,Cardiotónico (sensibilizador de calcio)
+378,"BORTEZOMIB 3.5mg,  polvo liofilizado,  I.V., S.C.",BORTEZOMIB,Antineoplásico (inhibidor del proteasoma)
+379,"Aminoácidos, al 13.4%, enriquecido con Glutamina, solución, 500-1,000ml, I.V.  ",AMINOÁCIDOS + GLUTAMINA,Nutrición parenteral
+380,"Dipéptido Alanina-Glutamina, al 20%, solución, frasco, 100ml, I.V. ",ALANINA-GLUTAMINA (DIPÉPTIDO),Nutrición parenteral (suplemento)
+381,"Dornase Alfa (Desoxirribonucleasa), 1mg/ml, solución, nebulización",DORNASE ALFA,Mucolítico (fibrosis quística)
+382,"DEXTROSA EN AGUA al 5%, solución, bolsa plástica con dos salidas, con equipo adaptable desechable para Infusión Intravenosa, 50ml.",DEXTROSA EN AGUA (5%),Solución intravenosa (nutrición/hidratación)
+383,"DEXTROSA EN AGUA al 5%, solución, bolsa plástica con dos salidas, con equipo adaptable desechable para Infusión Intravenosa, 100ml.",DEXTROSA EN AGUA (5%),Solución intravenosa (nutrición/hidratación)
+384,"LIDOCAÍNA 2%, solución sin preservativo, Vía Infiltración Local, Troncular, Peridural, I.M., I.V.",LIDOCAÍNA (2%),Anestésico local
+385,"Desmopresina acetato, 15 mcg/ml, solución, I.V., S.C.",DESMOPRESINA ACETATO,"Hormonal (análogo de vasopresina, antihemorrágico)"
+386,"Insulina Análoga Lispro, 100 UI/ml, solucion, I.V.",Insulina Análoga Lispro,Antidiabético (análogo de insulina rápida)
+387,"Suero antiofídico anti-coral (contra Micrurus nigrocintus Micrurus fulvius y Micrurus d. arinicaudus), solución o polvo liofilizado, ampolla o vial, 10ml, I.M., I.V.",Suero antiofídico anti-coral,Antídoto (antiveneno para mordeduras de serpiente)
+388,"Icodextrina, 7.5%, solución, intraperitoneal",Icodextrina (7.5%),Solución de diálisis peritoneal
+389,"TESTOSTERONA UNDECANOATO 1,000mg, solución, I.M.",Testosterona Undecanoato,Hormona (andrógeno de acción prolongada)
+390,"Hormona de crecimiento (somatropina), 5-16 mg, solución o polvo con diluyente, S.C.",Somatropina (Hormona de crecimiento),Hormona (estimulante del crecimiento)
+391,"Palivizumab 100 mg/ml, polvo liofilizado o solución, I.M.",Palivizumab,Antiviral (anticuerpo monoclonal para VRS)
+392,"Derivados de Acido Hialurónico de alto peso molecular (mayor de 4 millones de Daltons), solución, uso via intra-articular.",Ácido Hialurónico (alto peso molecular),Regenerador articular (viscosuplementación intraarticular)
+393,"FACTOR IX, 600 UI, POLVO Y DISOLVENTE PARA SOLUCIÓN INYECTABLE O PARA PERFUSIÓN, I.V.  /  FACTOR IX, 50-600 UI/ml, POLVO Y DISOLVENTE PARA SOLUCION INYECTABLE O PARA PERFUSION, I.V.",Factor IX,Hemostático (factor de coagulación)
+394,"AZACITIDINA 100mg, polvo  para preparación inyectable o para perfusión,  S.C., I.V.",Azacitidina,Antineoplásico (hipometilante)
+395,"NATALIZUMAB, 300 MG CONCENTRADO PARA SOLUCIÓN PARA PERFUSIÓN,  I.V.",Natalizumab,Inmunomodulador (esclerosis múltiple)
+396,"ADALIMUMAB, 40mg, solución inyectable, S.C.",Adalimumab,Inmunosupresor (anti-TNF)
+397,"ALTEPLASA (rtpA) 50mg, polvo liofilizado,  I.V. ",Alteplasa (rtPA),Trombolítico (activador del plasminógeno)
+398,"FORMULACIÓN PARA ALIMENTACIÓN PARENTERAL EN BOLSA DE TRES CÁMARAS: NUTRICIÓN PARENTERAL PERIFÉRICA COMPLETA: EMULSIÓN LIPÍDICA 20%+ GLUCOSA 11% + AMINOÁCIDO Y ELECTROLITOS; solución, bolsa, 1440 ml, I.V.; VEN: FALTA Origen de la Molécula: Síntesis Química. ",Nutrición Parenteral (3 cámaras: lípidos + glucosa + aminoácidos),Nutrición intravenosa
+399,"LIDOCAÍNA  CLORHIDRATO 2% con EPINEFRINA 1:100.000, solución, Infiltración Bucal.",Lidocaína + Epinefrina,Anestésico local (con vasoconstrictor)
+400,"MEPIVACAÍNA CLORHIDRATO 3% (30mg/ml) SIN VASOCONSTRICTOR, solución, Infiltración Bucal.",Mepivacaína (sin vasoconstrictor),Anestésico local
+401,"DEXMEDETOMIDINA CLORHIDRATO 100mcg a 400mcg, solución, I.V.",Dexmedetomidina,Sedante (agonista alfa-2 adrenérgico)
+402,"BENDAMUSTINA, 100 MG, I.V.",Bendamustina (100 mg y 25 mg),Antineoplásico (agente alquilante)
+403,"BENDAMUSTINA, 25 MG, I.V.",Bendamustina (100 mg y 25 mg),Antineoplásico (agente alquilante)
+404,"GOSERELINA, 10.8MG, S.C.",Goserelina,"Hormonal (análogo de GnRH, supresor hormonal)"
+405,"FACTOR VII A RECOMBINANTE HUMANO 1mg a 2mg, I.V.",Factor VIIa recombinante,Hemostático (inductor de la coagulación)
+406,"SODIO CLORURO al 0.9%, solución, bolsa plástica con dos salidas, con equipo adaptable desechable para Infusión Intravenosa, 100ml.",Sodio Cloruro (0.9%),Solución intravenosa (electrolítico)
+407,"VORICONAZOL 200MG, POLVO, I.V.",Voriconazol,Antifúngico (triazol)
+408,"DEXKETOPROFENO 25mg/ml, solución para perfusión, I.V., I.M.",Dexketoprofeno,AINE (antiinflamatorio no esteroideo)
+409,"PARACETAMOL 10mg/ml, solución para perfusión, I.V.",Paracetamol,Analgésico/antipirético
+410,"METOXIPOLIETILENGLICOL ERITROPOYETINA BETA 100mcg/0.3mL, solución,  S.C.",Metoxipolietilenglicol Epoetina Beta,Agente hematopoyético (estimulante de eritropoyesis de acción prolongada)
+411,"METOXIPOLIETILENGLICOL ERITROPOYETINA BETA, 50mcg/0.3mL, solución, S.C. ",Metoxipolietilenglicol Epoetina Beta,Agente hematopoyético (estimulante de eritropoyesis de acción prolongada)
+412,"OMALIZUMAB, 150mg, POLVO P/SOLU, S.C",Omalizumab,Antiasmático (anti-IgE)
+413,"PALIPERIDONA PALMITATO, 100mg, solución o suspensión, l.M.",Paliperidona Palmitato,"Antipsicótico (atípico, depot)"
+414,"PALIPERIDONA PALMITATO, 150mg, solución o suspensión, l.M.",Paliperidona Palmitato,"Antipsicótico (atípico, depot)"
+415,"BUDESONIDA 160MG / FORMOTEROL FUMARATO DIHIDRATADO 4.5mcg, polvo o aerosol o suspensión para inahalación V.O.",Budesonida + Formoterol,Broncodilatador + corticoide (asma/EPOC)
+416,"ALUMINIO ACETATO ÁCIDO 0.050%- 0.060%, loción, pH: 3.5-4.8, frasco, 120ml, Vía Tópica",Aluminio Acetato Ácido (tópico),Antiséptico/astringente (dermatológico)
+417,"METOCLOPRAMIDA, 5MG/5ML, JARABE, FRASCO, 90-125ML, V.O.",Metoclopramida,Antiemético/procinético
+418,"DEXTROMETORFANO BROMHIDRATO 10mg/5ml, jarabe, frasco, 120ml, V.O.",Dextrometorfano,Antitusivo
+419,"RUIBARBO 1.5% y SODIO 3.5%, mixtura, frasco, 120-240ml, V.O.",Ruibarbo + Sodio,Laxante (estimulante intestinal)
+420,"HALOPERIDOL 2mg/ml, gotas, solución, frasco cuentagotas o gotero calibrado, 15ml, V.O.",Haloperidol (gotas),Antipsicótico (típico)
+421,"CLORANFENICOL, 0.5%, GOTAS, SOLUCIÓN, FRASCO 5-15ML, VÍA OFTÁLMICA",Cloranfenicol (oftálmico),Antibiótico (oftálmico)
+422,"HIDROCORTISONA 0.25-2.5%, loción, frasco, 15-30ml, Vía Tópica. (Corticoide de baja potencia).",Hidrocortisona (tópica),"Corticoide (baja potencia, dermatológico)"
+423,"POLIMIXINA B, NEOMICINA, HIDROCORTISONA 1%, gotas, suspensión, frasco, 5ml, Vía Ótica.",Polimixina B + Neomicina + Hidrocortisona (ótico),Antibiótico + corticoide (ótico)
+424,"METACRESOLSULFÓNICO ÁCIDO con FORMALDEHÍDO (POLICRESULENO) 36 - 41%, líquido, frasco, 10-25ml, Vía Tópica.",Policresuleno (Metacresolsulfónico + Formaldehído),Antiséptico/hemostático tópico
+425,"HOMATROPINA METILBROMURO 5mg/5ml, elixir, frasco, 120ml, V.O.",Homatropina Metilbromuro,Antiespasmódico/anticolinérgico
+426,"POTASIO GLUCONATO, 20MEQ/15ML, ELIXIR, FRASCO, 150-200ML, V.O.",Potasio Gluconato,Suplemento electrolítico
+427,"MUCILOIDES HIDROFÍLICOS DERIVADOS DE PLANTAGINACEAE (equivalente a un  mínimo de 49% de PSYLLIUM), polvo o cáscara, frasco, 200-350g, V.O.",Mucíloides de Plantaginaceae (Psyllium),Laxante (fibra soluble)
+428,"ALUMINIO Y MAGNESIO HIDRÓXIDO, 5.9-8.3% DE HIDRÓXIDOS TOTALES, GEL O SUSPENSIÓN, FRASCO, 150-240ML, V.O.                            ",Aluminio + Magnesio Hidróxido,Antiácido
+429,"PASIFLORA, 500MG/5ML, SOLUCIÓN, FRASCO, V.O.",Pasiflora,Ansiolítico/sedante natural
+430,"GUAYACOLATO DE GLICERILO, 100MG/5ML, JARABE, FRASCO, 120ML, V.O.",Guayacolato de Glicerilo,Mucolítico/expectorante
+431,"ALUMINIO ACETATO ÁCIDO, (ACETATO DE CALCIO Y SULFATO DE ALUMÍNIO), POLVO, SOBRE,  2-3G, VÍA TÓPICA.",Aluminio Acetato (polvo tópico),Antiséptico/astringente (uso tópico)
+432,"TRIMETROPIN 40MG CON SULFAMETOXAZOL 200MG/5ML, SUSPENSIÓN  PEDIÁTRICA, FRASCO, 100-120ML, V.O.",Trimetoprim + Sulfametoxazol (suspensión),Antibiótico (combinación)
+433,"ANTIHISTAMÍNICO CON DESCONGESTIONANTE NASAL: ANTIHISTAMÍNICO: BROMFENIRAMINA, 2MG/5ML, O CLORFENIRAMINA, 2MG/5ML, O DEXBROMFENIRAMINA, 1.5MG/5ML, O TRIPROLIDINA, 1.25MG/5ML CON DESCONGESTIONANTE NASAL: FENILEFRINA, 5MG/5ML, O PSEUDOEFEDRINA, 30MG/5ML, JARABE, FRASCO, 60-90ML, V.O.",Antihistamínico + Descongestionante nasal (combinación),Antialérgico + descongestionante
+434,"HIDROXICINA, 0.2%, 10MG/5ML, JARABE, FRASCO, 180-200 ML, V.O.",Hidroxicina,Antihistamínico/ansiolítico
+435,"CLORFENIRAMINA  MALEATO, 2-2.5MG/5ML, JARABE, FRASCO, 120ML,  V.O.",Clorfeniramina Maleato,Antihistamínico (H1)
+436,"HIERRO (SAL FERROSA), 25MG/ML DE HIERRO ELEMENTAL, GOTAS, FRASCO CON CUENTAGOTAS O GOTERO CALIBRADO, 15-30ML, V.O.",Hierro (sal ferrosa),Suplemento mineral (antianémico)
+437,"PARACETAMOL (ACETAMINOFÉN), 90-100MG/ML, GOTAS, SOLUCIÓN, FRASCO CON CUENTAGOTAS O GOTERO CALIBRADO, 15-30ML, V.O.",Paracetamol (gotas),Analgésico/antipirético
+438,"PARACETAMOL (ACETAMINOFÉN), 120-160MG/5ML, JARABE O SOLUCIÓN, FRASCO, V.O.    ",Paracetamol (jarabe),Analgésico/antipirético
+439,"NISTATINA, 100,000UI/ML, SUSPENSIÓN, FRASCO CON CUENTAGOTAS O GOTERO CALIBRADO, 24-30ML, V.O.                                                                  ",Nistatina,Antifúngico (suspensión oral para candidiasis)
+440,"DICLOXACILINA, 250MG/5ML, POLVO PARA SUSPENSIÓN, FRASCO,  60–100ML, V.O.",Dicloxacilina,Antibiótico (penicilina resistente a penicilinasa)
+441,"FERROSO FUMARATO, 140MG/5ML,  SUSPENSIÓN, FRASCO, 150-200ML, V.O.  ",Ferroso Fumarato,Suplemento mineral (antianémico)
+442,"LÁGRIMAS ARTIFICIALES QUE CONTENGAN POLÍMEROS DE ÉSTERES DE CELULOSA,  0.2%-05% Y/O ALCOHOL POLIVINÍLICO, 1%-3%, GOTAS, SOLUCIÓN, 15-20ML, VÍA OFTÁLMICA  ",Lágrimas artificiales (ésteres de celulosa/alcohol polivinílico),Lubricante ocular
+443,"PIPACETATO, 40MG/ML, GOTAS, FRASCO,  15ML, V.O.",Pipacetato,Antiespasmódico gastrointestinal
+444,"POLIESTIRENO SULFONATO, POLVO, POTE O FRASCO, 453.6 G,  V.O., VÍA RECTAL",Poliestireno sulfonato,Agente quelante de potasio (hiperpotasemia)
+445,"CEFALEXINA, 250MG/5ML, GRÁNULO O POLVO PARA SUSPENSIÓN O JARABE, 60- 100ML, FRASCO, V.O.",Cefalexina,Antibiótico (cefalosporina de 1ª generación)
+446,"MULTIVITAMINAS GOTAS, FRASCO CON CUENTAGOTAS O GOTERO CALIBRADO, 15-30ML V.O.",Multivitaminas (gotas),Suplemento vitamínico
+447,"DIFENHIDRAMINA, 12.5MG/5ML, JARABE, FRASCO 120ML, V.O.",Difenhidramina,Antihistamínico (H1) / sedante
+448,"METRONIDAZOL, 125MG/5ML, SUSPENSIÓN, FRASCO, 120ML, V.O.",Metronidazol,Antibiótico/antiparasitario (nitroimidazol)
+449,"PROXIMETACAÍNA (PROPARACAÍNA), 0.5% O TETRACAÍNA (AMETHOCAÍNA), 0.5%, GOTAS, SOLUCIÓN, FRASCO, 10-15ML, VÍA OFTÁLMICA.",Proximetacaína o Tetracaína (oftálmica),Anestésico local (oftálmico)
+450,"COLESTIRAMINA RESINA, 4G, POLVO, SOBRE, V.O. ",Colestiramina,Agente hipolipemiante (resina de intercambio iónico)
+451,"SEVOFLURANO, SOLUCIÓN, FRASCO, 250ML, INHALACIÓN",Sevoflurano,Anestésico general (inhalatorio)
+452,"CLOTRIMAZOL, 1-2%, SOLUCIÓN, FRASCO, 20-30ML VÍA TÓPICA  ",Clotrimazol (tópico),Antifúngico (imidazol)
+453,"BECLOMETASONA DIPROPIONATO 50mcg/inhalación, solución en aerosol  libre de CFC, inhalador con 100-200 dosis,  Vía Bucal.",Beclometasona (inhalador),Corticoide inhalado (asma/EPOC)
+454,"CLONAZEPAM, 2.5MG/ML, SOLUCIÓN, FRASCO, 10ML, V.O.",Clonazepam,Ansiolítico/antiepiléptico (benzodiacepina)
+455,"SALBUTAMOL SULFATO, 2MG/5ML, JARABE, FRASCO, 150-180ML, V.O.",Salbutamol (jarabe),Broncodilatador (agonista ?2-adrenérgico)
+456,"SALBUTAMOL BASE O SULFATO, 100MCG/INHALACIÓN, SUSPENSIÓN EN AEROSOL LIBRE DE  CFC, INHALADOR CON  200-250 DOSIS, VÍA BUCAL.",Salbutamol (inhalador),Broncodilatador (agonista ?2-adrenérgico)
+457,"PIRANTEL PAMOATO 250MG CON OXANTEL 250MG/5ML, SUSPENSIÓN, FRASCO, 15ML, V.O.",Pirantel + Oxantel,Antiparasitario (antihelmíntico)
+458,"TIMOLOL MALEATO O BETAXOLOL CLORHIDRATO O LEVOBUNOLOL CLORHIDRATO,  0.5%, GOTAS, SOLUCIÓN, FRASCO 5 - 15ML,  VÍA OFTÁLMICA.    ",Timolol/Betaxolol/Levobunolol (oftálmico),Antiglaucomatoso (betabloqueante)
+459,"BETAMETASONA VALERATO, 0.1%,  LOCIÓN CAPILAR, FRASCO, 20-60ML, VÍA TÓPICA.",Betametasona (tópica capilar),"Corticoide (potencia media-alta, dermatológico)"
+460,"SALES DE REHIDRATACIÓN ORAL,  CON UN CONTENIDO MÍNIMO DE: DEXTROSA (GLUCOSA) ANHIDRA 20G, SODIO CLORURO 3.5G,  SODIO CITRATO DIHIDRATADO 2.9G, POTASIO  CLORURO 1.5G, POLVO, SOBRE, V.O.",Sales de rehidratación oral,Solución electrolítica (rehidratación)
+461,"VALPROICO ÁCIDO 250mg/5ml, jarabe o suspensión, frasco, 120ml, V.O.",Ácido Valproico,Antiepiléptico/estabilizador del ánimo
+462,"SALBUTAMOL SULFATO, 0.5%, SOLUCIÓN, FRASCO, 20-30ML, NEBULIZACIÓN.",Salbutamol (nebulización),Broncodilatador (agonista ?2-adrenérgico)
+463,"LACTULOSA LIQUIDO, 667MG/ML, FRASCO, 450-500ML, V.O.        ",Lactulosa,Laxante osmótico
+464,"NAFAZOLINA CLORHIDRATO, 0.1%, GOTAS, SOLUCIÓN, FRASCO, 7-15ML, VÍA OFTÁLMICA.",Nafazolina (oftálmica),Descongestionante ocular (agonista ?-adrenérgico)
+465,"PREDNISOLONA ACETATO, 1%, GOTAS, SUSPENSION,  FRASCO 5-15ML, OFTALMICA.",Prednisolona (oftálmica),Corticoide (antiinflamatorio ocular)
+466,"DESMOPRESINA ACETATO 0.1mg/ml, solución, frasco, 2.5ml, Vía Nasal.",Desmopresina (nasal),"Hormonal (análogo de vasopresina, antihemorrágico)"
+467,"CARBAMAZEPINA 100mg/5ml, suspensión, frasco, 100ml, V.O. ",Carbamazepina,Antiepiléptico/analgésico (neuralgia)
+468,"Ipratropio bromuro, 15-20mcg/inhalación, solución en aerosol, inhalador con 200-250 dosis, vía bucal",Ipratropio bromuro (inhalador),Broncodilatador (anticolinérgico)
+469,"DICLOFÉNACO 0.1%, O FLURBIPROFEN 0.03%, O SUPROFEN 1%, GOTAS, SOLUCIÓN, FRASCO, 2.5-10 ML, VÍA OFTÁLMICA.  5ml",Diclofenaco/Flurbiprofeno/Suprofen (oftálmico),AINE (antiinflamatorio ocular)
+470,"CROMOGLICATO SÓDICO, 4% PESO/VOLUMEN, SOLUCIÓN, FRASCO ATOMIZADOR CON DISPOSITIVO, VÍA NASAL.",Cromoglicato sódico (nasal),Antialérgico (estabilizador de mastocitos)
+471,"AMOXICILINA BASE O TRIHIDRATADA, 250MG/5ML, POLVO PARA SUSPENSIÓN O JARABE, FRASCO,  60-100ML. V.O.     ",Amoxicilina,Antibiótico (penicilina)
+472,"PREDNISONA O PREDNISOLONA, 1-3MG/ML, JARABE O SOLUCIÓN, 60- 120ML, V.O. ",Prednisona/Prednisolona (oral),Corticoide sistémico
+473,"ALBENDAZOL, 40MG/ML, SUSPENSIÓN, FRASCO, V.O.",Albendazol,Antiparasitario (antihelmíntico)
+474,"IPRATROPIO BROMURO, 250MCG/ML, SOLUCIÓN, FRASCO, 20ML, NEBULIZACIÓN",Ipratropio bromuro (nebulización),Broncodilatador (anticolinérgico)
+475,"LATANOPROST, 50 MCG/ML, GOTAS, SOLUCIÓN, FRASCO, 2.5ML, VÍA OFTÁLMICA.",Latanoprost,Antiglaucomatoso (análogo de prostaglandina)
+476,"DORZOLAMIDA CLORHIDRATO, 2%, GOTAS, SOLUCIÓN, FRASCO, 5-10ML,  VÍA  OFTÁLMICA.",Dorzolamida,Antiglaucomatoso (inhibidor de anhidrasa carbónica)
+477,"LOPINAVIR 80MG CON RITONAVIR 20MG/ML, SOLUCIÓN, FRASCO, V.O.",Lopinavir/Ritonavir,Antirretroviral (inhibidor de proteasa)
+478,"AMOXICILINA 400MG CON ACIDO CLAVULÁNICO 57MG (CLAVULONATO POTÁSICO), SUSPENSIÓN, FRASCO, V.O.",Amoxicilina/Ácido clavulánico,Antibiótico (penicilina + inhibidor de ?-lactamasa)
+479,"BENCILO BENZOATO, 25%, loción, frasco, 120ml, Vía Tópica",Bencilo benzoato,Antiparasitario (escabicida)
+480,"CALAMINA, 8%, LOCIÓN, FRASCO, 120ML, VÍA TÓPICA.",Calamina,Protector cutáneo/antipruriginoso
+481,"COMPLEJO B, elixir o jarabe, V.O.",Complejo B,Suplemento vitamínico
+482,"AZELASTINA HIDROCLORURO, 0.05%,  GOTAS, SOLUCIÓN, FRASCO, VÍA  OFTÁLMICA.",Azelastina (oftálmica),Antihistamínico (antiinflamatorio ocular)
+483,"AZITROMICINA, 200MG/5ML,  POLVO PARA SUSPENSIÓN, 15-30ML, FRASCO, V.O.",Azitromicina,Antibiótico (macrólido)
+484,"BRIMONIDINA TARTRATO, 0.2%,  GOTAS,  SOLUCIÓN, FRASCO, VÍA  OFTÁLMICA",Brimonidina (oftálmica),Antiglaucomatoso (agonista ?2-adrenérgico)
+485,"CICLOSPORINA 100mg/ml, solución con microemulsión, frasco, V.O.","Ciclosporina (oral, microemulsión)",Inmunosupresor (inhibidor de calcineurina)
+486,"FLUOXETINA HIDROCLORURO 20mg/5ml, solución, frasco, V.O.",Fluoxetina HCl 20mg/5ml,Antidepresivo (ISRS)
+487,"IBUPROFENO, 100MG/5ML,  SUSPENSIÓN, FRASCO, V.O.",Ibuprofeno 100mg/5ml,Antiinflamatorio no esteroideo (AINE)
+488,"MOMETASONA FUROATO 200mcg/ inhalación, polvo seco, inhalador, Vía Bucal.",Mometasona furoato 200mcg/inhalación,Corticoide inhalado (asma)
+489,"LAMIVUDINA 10mg/ml, solución, frasco, 240-300ml, V.O.",Lamivudina 10mg/ml,Antirretroviral (inhibidor de transcriptasa inversa)
+490,"ZIDOVUDINA 10mg/ml, solución, frasco, 240- 300ml, V.O.   (x240)",Zidovudina 10mg/ml,Antirretroviral (inhibidor de transcriptasa inversa)
+491,"FENTANILO, 25MCG, PARCHE TRANSDÉRMICO, VÍA TÓPICA.     (NARCOTICO)",Fentanilo 25mcg parche,Analgésico opioide (narcótico)
+492,"TIOTROPIO BROMURO, 18MCG/INHALACIÓN, POLVO SECO, INHALADOR CON DISPOSITIVO, VÍA BUCAL",Tiotropio bromuro 18mcg/inhalación,Broncodilatador (anticolinérgico)
+493,"SODIO CLORURO, 0.85%-0.9%, GOTAS NASALES EN SOLUCIÓN, FRASCO 50ML, VÍA NASAL.   ",Sodio cloruro 0.85-0.9% nasal,Solución salina (descongestionante nasal)
+494,"CALCIPOTRIOL (HIDRATO), 50MCG/G CON BETAMETASONA (DIPROPIONATO), 05MG/G, GEL FRASCO, 30G, VIA TÓPICA.",Calcipotriol + Betametasona,Combinación antipsoriásica (vitamina D + corticoide)
+495,"RIVASTIGMINA, 9MG PARCHE TRANSDÉRMICO, VÍA TÓPICA",Rivastigmina 9mg parche,Antidemencia (inhibidor de colinesterasa)
+496,"RIVASTIGMINA, 18 MG PARCHE TRANSDÉRMICO, VÍA TÓPICA",Rivastigmina 18mg parche,Antidemencia (inhibidor de colinesterasa)
+497,"TOBRAMICINA 300mg/5ml, solución para Inhalación y Nebulizar, ampolla.",Tobramicina 300mg/5ml nebu,Antibiótico aminoglucósido (inhalado)
+498,"MOMETASONA, 50MCG/INHALACIÓN, SUSPENSIÓN ACUOSA EN AEROSOL, INHALADOR, VIA NASAL.",Mometasona 50mcg/inhalación nasal,Corticoide nasal (rinitis alérgica)
+499,"TOBRAMICINA, 3MG/ML (0.3%), SOLUCION,GOTAS,VIA OFTALMICA",Tobramicina 0.3% oftálmica,Antibiótico oftálmico (aminoglucósido)
+500,"TOBRAMICINA,0.3% C/DEXAMETASONA 0.1% SUSPENSIÓN, GOTAS, VIA OFTALMICA ",Tobramicina + Dexametasona oftálmica,Antibiótico + corticoide oftálmico
+501,"DEXTROSA 37.5g cada 100ml, solución oral, 200ml. ",Dextrosa 37.5g/100ml oral,Carbohidrato (energético oral)
+502,"POLIETILENGLICOL 3350, CON ELECTROLITOS (SULFATO DE SODIO ANHIDRO, BICARBONATO DE SODIO, CLORURO DE SODIO, CLORURO DE POTASIO), POLVO PARA SOLUCION, V.O.",Polietilenglicol + electrolitos,Laxante osmótico (preparación intestinal)
+503,"CORTICOIDE DE BAJA POTENCIA NO FLUORINADO: DESONIDE, 0.05% o HIDROCORTISONA  0.25 -2.5%,  crema, tubo, 15-30g, Vía Tópica. ",Desonide/Hidrocortisona tópico,Corticoide tópico (baja potencia)
+504,"ALUMINIO ACETATO ÁCIDO, 0.050% A 0.060%, CREMA, PH: 4.0 - 4.8, TUBO, 30G VÍA TÓPICA.",Aluminio acetato ácido crema,Antiséptico/astringente tópico
+505,"FUSIDATO SÓDICO 2%, ungüento, tubo, 15-20g, Vía Tópica.",Fusidato sódico 2% ungüento,Antibiótico tópico
+506,"BETAMETASONA VALERATO 0.1%, crema, tubo, 15g, Vía Tópica.",Betametasona valerato 0.1% crema,Corticoide tópico (potencia media-alta)
+507,"KETOCONAZOL, 1-2%, CREMA, TUBO, 15- 20G, VÍA TÓPICA.                 ",Ketoconazol 1-2% tópico,Antifúngico tópico (imidazol)
+508,"GENTAMICINA SULFATO, 0.3%, UNGÜENTO, TUBO, 3-5G, VÍA OFTÁLMICA",Gentamicina 0.3% oftálmica,Antibiótico oftálmico (aminoglucósido)
+509,"SULFADIAZINA DE PLATA 1%, crema, pote, 100-400g, Vía Tópica.",Sulfadiazina de plata 1%,Antiséptico tópico (quemaduras)
+510,"CORTICOIDE POTENCIA ALTA: AMCINONIDE 0.1% o BETAMETASONA DIPROPIONATO 0.05%  o FLUOCINOLONA ACETÓNIDA 0.2%  o HALCINONIDA 1%  o MOMETASONA FUROATO 0.1%,  crema, tubo, 15g, Vía Tópica.",Corticoides tópicos alta potencia,Antiinflamatorio tópico (alta potencia)
+511,"CLORANFENICOL 1%, ungüento, tubo 3-5g, Vía Oftálmica.",Cloranfenicol 1% oftálmico,Antibiótico oftálmico
+512,"BENZOILO PERÓXIDO 5%, gel, tubo, 40-60g, Vía Tópica.",Benzoilo peróxido 5%,Antiacné (queratolítico)
+513,"ACICLOVIR 3%, ungüento, tubo, 3-7g, Vía Oftálmica.",Aciclovir 3% oftálmico,Antiviral oftálmico
+514,"CLOBETASOL PROPIONATO 0.05%, crema, tubo, 25g, Vía Tópica. (Corticoide súper potente).",Clobetasol propionato 0.05%,Corticoide tópico (súper potente)
+515,"MENTOL COMPUESTO 10-20%, ungüento, tubo, Vía  Tópica.",Mentol compuesto,Analgésico tópico (refrigerante)
+516,"FLUORACILO 5%, crema, tubo, 15-30g, Vía Tópica.",Fluoracilo 5%,Antineoplásico tópico (queratolítico)
+517,"SULFADIAZINA DE PLATA 1%, CREMA, TUBO O POTE, 30-60G VÍA TÓPICA.",Sulfadiazina de plata 1%,Antiséptico tópico (quemaduras)
+518,"ESTRÓGENO CONJUGADOS NATURALES DE ORIGEN EQUINO, 0.625MG/G, CREMA TUBO CON APLICADOR, 40-45 G  V. VAGINAL,                X42.5",Estrogenos conjugados vaginal,Hormonal tópico (atrofia vaginal)
+519,"METRONIDAZOL 500mg, óvulo, Vía Vaginal.",Metronidazol vaginal,Antibiótico/antiparasitario vaginal
+520,"ANTIHEMORROIDAL CON CORTICOIDE Y ANESTÉSICO LOCAL: HIDROCORTISONA o BETAMETASONA o PREDNISOLONA con LIDOCAÍNA o BENZOCAÍNA; O DOBESILATO CALCIO MONOHIDRATO 4G /LIDOCAINA 2G / DEXAMETASONA ACETATO 0.025G, crema, jalea, pomada o ungüento rectal, con tubo aplicador, Vía Rectal.",Antihemorroidal compuesto,Combinación tópica rectal
+521,"LIGNOCAÍNA (LIDOCAÍNA) 2%, jalea, tubo,  20-30g, Vía Tópica.",Lidocaína 2% tópica,Anestésico local tópico
+522,"PARACETAMOL (ACETAMINOFEN), 250-300MG. SUPOSITORIOS PEDIÁTRICOS, VIA RECTAL.",Paracetamol rectal,Analgésico/antipirético rectal
+523,"METACRESOLSULFÓNICO ÁCIDO con FORMALDEHÍDO (POLICRESULENO) 18mg/g, gel,  tubo con aplicador, 50g, Vía Vaginal.",Policresuleno vaginal,Antiséptico vaginal
+524,"DICLOFENACO SÓDICO 50mg,  supositorio,  Vía Rectal.",Diclofenaco rectal,AINE (antiinflamatorio rectal)
+525,"IMIDAZOLES: CLOTRIMAZOL, ISOCONAZOL, MICONAZOL, 1-2%, CREMA O JALEA, TUBO CON APLICADOR, 35-40G, VÍA VAGINAL                 X40G",Imidazoles vaginales,Antifúngicos vaginales
+526,"DINOPROSTONE, 2MG/3G, GEL, TUBO CON APLICADOR PRECARGADO O JERINGA, VÍA VAGINAL. ",Dinoprostone vaginal,Prostaglandina (inducción parto)
+527,"LEVONORGESTREL 52mg (20mcg/24horas), sistema Intrauterino.",Levonorgestrel DIU,Anticonceptivo hormonal intrauterino
+528,"LIDOCAINA 700MG, PARCHE, VIA TOPICA; ",Lidocaína parche,Anestésico local tópico
+529,"RITUXIMAB 100mg, solución, I.V.",Rituximab 100mg,Antineoplásico/inmunosupresor (anti-CD20)
+530,"RITUXIMAB 500mg, solución, I.V.",Rituximab 500mg,Antineoplásico/inmunosupresor (anti-CD20)
+531,"INFLIXIMAB 100mg, polvo liofilizado, I.V.",Infliximab 100mg,Inmunosupresor (anti-TNF)
+532,OCRELIZUMAB 30mg/ml solución I.V.,Ocrelizumab,Inmunomodulador (esclerosis múltiple)
